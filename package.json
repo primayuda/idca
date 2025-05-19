@@ -36,6 +36,7 @@
     "clean": "rimraf dist .astro node_modules"
   },
   "dependencies": {
+    "@astrojs/netlify": "^6.3.2",
     "@astrojs/tailwind": "^6.0.2",
     "astro": "^5.7.9",
     "tailwindcss": "^3.3.5"
